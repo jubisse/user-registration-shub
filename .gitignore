@@ -1,0 +1,41 @@
+# Node.js dependencies
+/node_modules
+
+# Logs
+*.log
+logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Build output
+dist
+build
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.sublime-project
+*.sublime-workspace
+
+# Optional
+*.tgz
+*.zip
+*.rar
+*.tar
+*.gz
+*.7z
+
+# Package-lock.json and yarn.lock
+package-lock.json
+yarn.lock
